@@ -1,18 +1,18 @@
 # Unreal Engine Fortnite Map Designer
 # Project Overview:
-The Unreal Engine Fortnite Map Designer project aims to provide players with an innovative and immersive gaming experience by creating custom Fortnite maps within the Unreal Engine environment. The project targets casual or competitive players who want to have a good time with their friends outside of the typical Battle Royale gamemode.  
+This project aims to provide players with an innovative and immersive gaming experience by creating a custom Fortnite map within the Unreal Engine environment. The project targets casual or competitive players who want to have a good time with their friends outside of the typical Battle Royale gamemode.  
 
 # Technical Architecture:
-The project utilizes Unreal Engine, a powerful game development platform, to design and implement custom Fortnite maps. It leverages advanced features and tools provided by Unreal Engine to create dynamic environments, interactive elements, and engaging gameplay experiences. Additionally, the project integrates Verse technology to enhance multiplayer interactions and enable real-time collaboration among players and designers.
+The project utilizes Unreal Engine to design and implement a custom Fortnite map. It leverages advanced features and tools provided by Unreal Engine to create dynamic environments, interactive elements, and engaging gameplay experiences. Additionally, the project integrates Verse technology to enhance multiplayer interactions and enable real-time collaboration among players.
 
 # Key Features:
-Conceptualize and design custom Fortnite maps with intricate terrain, structures, and gameplay elements.
-Implement custom gameplay mechanics, including dynamic events, interactive objects, and player interactions.
-Integrate Verse technology to facilitate real-time collaboration and multiplayer experiences among players and designers.
-Utilize advanced scripting and animation tools provided by Unreal Engine to create immersive gameplay experiences.
+Conceptualized, designed, and implemented an innovative Fortnite map within Unreal Engine.
+Custom gameplay mechanics, including dynamic events, interactive objects, and player interactions.
+Integrated Verse technology to facilitate real-time collaboration and multiplayer experiences among players.
+Utilized advanced scripting and animation tools provided by Unreal Engine to create immersive gameplay experiences.
 
 # Testing and Quality Assurance:
-Testing and quality assurance processes are implemented to ensure the stability, reliability, and performance of the project. Automated testing frameworks and manual testing procedures are employed to identify and address bugs, glitches, and performance bottlenecks throughout the development lifecycle.
+Testing and quality assurance processes are implemented to ensure the stability, reliability, and performance of the project. Manual testing procedures are employed to identify and address bugs, glitches, and performance bottlenecks throughout the development lifecycle.
 
 # User Feedback and Iterations:
 User feedback is actively incorporated into the project through the small player pool and user testing sessions. Iterative updates and enhancements are released based on user input, with a focus on addressing user needs and preferences.
